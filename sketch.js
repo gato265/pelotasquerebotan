@@ -80,7 +80,7 @@ function setup(){
 }
 
 function draw(){
-    background("lightgreen");
+    background("rgb(127, 255, 212)");
     Engine.update(engine);
  
   //forma creada para el plano y postura
